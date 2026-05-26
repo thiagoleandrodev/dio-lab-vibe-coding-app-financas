@@ -53,14 +53,41 @@ Resultado Final no Lovable: https://preview--vibe-your-viveres.lovable.app/chat/
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/457db60c-1602-46cb-83e2-f87819be94a4" />
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+# Funcionalidades do App de Finanças Pessoais
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+## Registro de gastos via chat
+O usuário informa despesas em linguagem natural, sem formulários complexos.
+
+## Classificação automática de transações
+A IA organiza os gastos em categorias como alimentação, transporte e lazer.
+
+## Metas financeiras
+Permite definir objetivos (ex.: economizar R$500/mês) e acompanhar o progresso.
+
+## Agente Financeiro
+Um assistente virtual que oferece recomendações personalizadas de economia e hábitos saudáveis.
+
+## Relatórios simples e personalizados
+Gráficos e insights claros, sem jargão técnico, para iniciantes entenderem facilmente sua situação financeira.
+
+## Design Universal
+Interface inclusiva e acessível, com suporte a leitores de tela, contraste adequado e linguagem clara, garantindo boa experiência para o maior número possível de usuários.
+
+## Persistência de dados
+Histórico de mensagens e dados financeiros salvos em nuvem (Lovable Cloud), acessíveis em qualquer dispositivo com login seguro.
+
+
+## Reflexão
+
+### O que funcionou bem?
+O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+
+### O que não funcionou como o esperado?
+Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feita já foram de grande ajuda para aprender mais sobre Vibe Coding.
+
+### O que aprendeu sobre conversar com IAs?
+Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
+
 
 ## 💬 Conclusão
 
