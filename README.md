@@ -3,22 +3,22 @@
 PRD refinado no Copilot Web
 
 ``` markdown
-PRD – App de Organização de Finanças Pessoais
+# PRD – App de Organização de Finanças Pessoais
 
-Contexto
+# Contexto
 Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas naturais com o usuário.
 Objetivo: simplificar o controle de gastos e metas sem depender de formulários complexos ou planilhas.
 
-Problema
+# Problema
 - Apps atuais exigem entrada manual extensa.
 - Pouca personalização e experiência engessada.
 - Usuários iniciantes desistem rapidamente por falta de praticidade.
 
-Público-Alvo
+# Público-Alvo
 - Pessoas que querem começar a organizar suas finanças de forma simples.
 - Principalmente iniciantes que nunca usaram apps de controle financeiro ou que desistiram por complexidade.
 
-Funcionalidades-Chave
+# Funcionalidades-Chave
 1. Registro via chat: o usuário informa gastos em linguagem natural.
 2. Classificação automática: IA organiza transações em categorias (alimentação, transporte, lazer etc.).
 3. Metas financeiras: definir objetivos (ex.: economizar R$500/mês) e acompanhar progresso.
@@ -26,7 +26,7 @@ Funcionalidades-Chave
 5. Relatórios simples: gráficos e insights acessíveis, sem jargão técnico.
 6. Design Universal: garantir que o app seja inclusivo, acessível e proporcione boa experiência para o maior número possível de usuários (ex.: suporte a leitores de tela, contraste adequado, linguagem clara).
 
-Entregável da IA (MVP)
+# Entregável da IA (MVP)
 - Principais telas:
   - Tela de chat (entrada de gastos e interação com agente).
   - Tela de metas (definição e acompanhamento).
