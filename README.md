@@ -51,7 +51,8 @@ Interações com o Lovable:
 
 Resultado Final no Lovable: https://preview--vibe-your-viveres.lovable.app/chat/954082a1-0416-4ab2-aab8-bb050bbc2502
 
-file:///C:/Users/Thiago/Desktop/Captura%20de%20tela%202026-05-25%20211349.png
+https://drive.google.com/file/d/1QarYRlTmVK0D9dVvfwW27gELx9qf9b9b/view
+
 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
