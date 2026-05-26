@@ -45,8 +45,9 @@ Objetivo: simplificar o controle de gastos e metas sem depender de formulários 
 
 Interações com o Lovable:
 
-Ocorreu o primeiro erro:
-> {ocorreu um erro de Redirecionamento em excesso por f1f32d97-f283-45f4-8710-4cef148a51c8.lovableproject.com}
+> Ocorreu o primeiro erro: {ocorreu um erro de Redirecionamento em excesso por f1f32d97-f283-45f4-8710-4cef148a51c8.lovableproject.com}
+
+> Adicionar e executar testes de ponta a ponta do fluxo de chat, incluindo envio de mensagem e persistência no banco.
 
 
 
