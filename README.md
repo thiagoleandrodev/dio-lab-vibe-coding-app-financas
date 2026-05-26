@@ -41,7 +41,7 @@ Entregável da IA (MVP)
   - Teste com grupo piloto de usuários iniciantes e diversos perfis (incluindo pessoas com necessidades específicas).
   - Coletar feedback sobre clareza das conversas, acessibilidade e utilidade das recomendações.
   - Ajustar categorias, relatórios e interface conforme uso real.
-
+```
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
