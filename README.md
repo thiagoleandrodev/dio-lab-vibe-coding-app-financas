@@ -49,7 +49,7 @@ Interações com o Lovable:
 
 > Adicionar e executar testes de ponta a ponta do fluxo de chat, incluindo envio de mensagem e persistência no banco.
 
-
+Resultado Final no Lovable: https://preview--vibe-your-viveres.lovable.app/chat/954082a1-0416-4ab2-aab8-bb050bbc2502
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
