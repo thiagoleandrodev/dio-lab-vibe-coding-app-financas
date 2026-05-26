@@ -42,7 +42,13 @@ Objetivo: simplificar o controle de gastos e metas sem depender de formulários 
   - Coletar feedback sobre clareza das conversas, acessibilidade e utilidade das recomendações.
   - Ajustar categorias, relatórios e interface conforme uso real.
 ```
-- Seu **prompt final** (PRD);  
+
+Interações com o Lovable:
+
+> Ocorreu o primeiro erro: {ocorreu um erro de Redirecionamento em excesso por f1f32d97-f283-45f4-8710-4cef148a51c8.lovableproject.com}
+
+
+
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
